@@ -1,4 +1,4 @@
-#Stealth- Crafting Black-Box Attacks on Medical Images through Singular Value Manipulation
+# Stealth- Crafting Black-Box Attacks on Medical Images through Singular Value Manipulation
 Official repo for **Stealth**.
 
 ## 🚀 Key Features
