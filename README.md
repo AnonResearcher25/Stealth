@@ -1,5 +1,5 @@
-## Stealth- Crafting Black-Box Attacks on Medical Images through Singular Value Manipulation
-Official repo for - Stealth 
+#Stealth- Crafting Black-Box Attacks on Medical Images through Singular Value Manipulation
+Official repo for **Stealth**.
 
 ## 🚀 Key Features
 - Stealth is a highly efficient black-box adversarial attack for medical image classification, marking the first approach to utilize singular value manipulation for attack generation.
@@ -17,3 +17,6 @@ Official repo for - Stealth
 | Original Image | Stealth Image |
 |---------------|---------|
 | ![Original](Viral_Pneumonia.png) | ![Stealth](Attacked_Image.png) |
+
+## 📖 Citation
+If you find this repository useful, please consider citing this paper!
