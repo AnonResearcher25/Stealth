@@ -20,12 +20,16 @@ Official repo for **Stealth**.
 | ![Original](Viral_Pneumonia.png) | ![Stealth](Attacked_Image.png) |
 
 ## GradCAM
-|---------------|---------|
+| Original Image | Stealth Image |
+|---------------|---------------|
 | ![Original](https://github.com/AnonResearcher25/Stealth/blob/main/Original%20MRI%20GradCAM.png) | ![Stealth](https://github.com/AnonResearcher25/Stealth/blob/main/Attacked%20MRI%20GradCAM.png) |
 
+
 ## LIME Analysis
-|---------------|---------|
+| Original Image | Stealth Image |
+|---------------|---------------|
 | ![Original](https://github.com/AnonResearcher25/Stealth/blob/main/Original%20LIME.png) | ![Stealth](https://github.com/AnonResearcher25/Stealth/blob/main/Attacked%20LIME.png) |
+
 
 ## 📖 Citation
 To be added soon!
