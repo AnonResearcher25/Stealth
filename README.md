@@ -13,11 +13,19 @@ Official repo for **Stealth**.
 - Use these Singular Values to train the MLP (inital attack) and save it as the MLP Model as MLP.pth
 - Run the Stealth Attack Notebook. Make sure to modify the MLP.pth and CNN.pth accordingly.
 
-## Sample Images
+## Sample Attacked Image
 
 | Original Image | Stealth Image |
 |---------------|---------|
 | ![Original](Viral_Pneumonia.png) | ![Stealth](Attacked_Image.png) |
+
+## GradCAM
+|---------------|---------|
+| ![Original](Original MRI GradCAM.png) | ![Stealth](Attacked MRI GradCAM.png) |
+
+## LIME Analysis
+|---------------|---------|
+| ![Original](Original LIME.png) | ![Stealth](Attacked LIME.png) |
 
 ## 📖 Citation
 To be added soon!
